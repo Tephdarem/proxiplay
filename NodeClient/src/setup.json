@@ -1,0 +1,20 @@
+ {
+    "nodeId": 1,
+    "roomId": 1,
+    "roomName": "Living-room",
+    "vol": 0,
+    "serverIp": "10.0.0.18",
+    "serverPort": 3000,
+    "serverVolumeData": "nodes/volumetest",    
+    "refreshRate": 300,
+    "streamUrl" : "http://10.0.0.11:8080",
+    "serverMeasurementPostMethod" : "msm/msm",
+    "nodeRegisterPostMethod" : "nodes/node",
+    "interface" : "wlan0",
+    "sendwaitInterval" : 1000,
+    "updateInterval" : 1,
+    "berlin" : 10,
+    "channel" : 6,
+    "bssid" : "50:67:F0:87:EF:F7"
+  }
+  
